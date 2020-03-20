@@ -7,5 +7,3 @@ Very simple Python script for a few bugs
 ### reproductionpostman_collectionV2.1.json
 Postman collection for regression 
 
-### testsPostman_results_printscreen.png
-Sample of Postman run report
